@@ -1,0 +1,1071 @@
+<!--
+          
+    【F2U】 08.Wiki [BOSSFIGHT] new ver.
+    
+      // Code by Leporidebug
+
+      ////////////////// Rules ///////////////////
+      
+      Do not redistribute this template
+      Please keep the credit somewhere visible
+      Feel free to change everything else to your liking
+      // Thank you for using this template. //
+      
+      
+      //////////////// colors ////////////////////
+      
+        background : #000000
+        body : #f7f7f7
+        main accent : #133A87
+
+
+--> 
+<div class="card modal-open rounded-0 border-0 mx-auto" style="max-width:1100px;background-color:#000000;color:#f7f7f7;font-size:0.85rem;letter-spacing:1px;">
+  
+  <!--------------------------------------
+    
+    TOP BAR
+    
+  ---------------------------------------->
+  <div class="card rounded-0 border-0 p-3" style="background-color:#000000;">
+    
+    <!----- name ---->
+    <h1 class="my-0 text-center display-4" style="font-family:'copperplate';">
+  Colbert Fletcher
+    </h1>
+    
+    <!----- title ----->
+    <p class="faded text-center mb-0">
+      <!----- fontawesome icon here ----->
+      <i class="fas fa-cross fa-sm fa-fw"></i>
+      
+      Runaway sheep 
+      
+      <!----- fontawesome icon here ----->
+      <i class="fas fa-sheep fa-sm fa-fw"></i>
+    </p>
+    
+  </div>
+  
+  
+  <!--------------------------------------
+    
+    IMAGE BANNER
+    - horizontal images recommended
+    
+  ---------------------------------------->
+  <div class="card rounded-0 border-0" style="height:250px;background-color:#133A87;
+    
+    /*----- banner image; replace IMG_URL with your own image address -----*/;
+    background-image:url(https://i.imgur.com/8ylVVzr.png);
+    
+    background-size:10%;
+
+    
+  "></div>
+  
+  
+  <div class="container p-3">
+    <!--------------------------------------
+    
+      BASIC INFO
+    
+    ---------------------------------------->
+    <div class="row no-gutters mb-2">
+      <!----- right column ----->
+      <div class="col-lg-4 order-lg-1 p-lg-3 p-1 flex-column">
+        <!----- decor bar; no need to edit ----->
+        <div class="card rounded-0 border-0 p-2 mb-3" style="background-color:#133A87;"></div>
+     
+        <img src="https://i.imgur.com/cikdEYL.png" alt="test" style="z-index:100;position:absolute;height:200px;margin-left:160px;margin-top:0px;opacity:0%;">
+        <!----- main avatar ----->
+        <div class="card p-2 rounded-0 mx-auto" style="background:transparent;border-color:#133A87;"><div class="card border-0 rounded-0 mx-auto my-auto" style="height:150px;width:200px;background-color:#f7f7f7;
+          
+          /*----- avatar image; replace IMG_URL with your own image address -----*/;
+          background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/108947167_T5V.jpg);
+          
+          background-size:cover;
+          background-position:center;
+          
+        "></div></div>
+        
+        <!----- decor bar; no need to edit ----->
+        <div class="card rounded-0 border-0 p-2 mt-4" style="background-color:#133A87;"></div>
+        
+        <!----- basics ----->
+      <div class="row no-gutters">
+  <div class="col-12" style="font-size:13px;">
+           
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">NAME</span>
+      <span class="pull-right"> Colbert Fletcher
+    </span></div>
+    
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">GENDER</span>
+      <span class="pull-right"> Cis Male
+    </span></div>
+       <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">ORIENTATION</span>
+      <span class="pull-right">Gay
+    </span></div>
+       <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">AGE</span>
+      <span class="pull-right">34 y/o
+    </span></div>
+       <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">MBTI</span>
+      <span class="pull-right">ISFJ
+    </span></div>
+       <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">NATIONALITY</span>
+      <span class="pull-right">Filipino/English
+    </span></div>
+    
+          </div>
+      
+          
+          <!---- divider; only shows up on mobile, no need to edit ---->
+          <div class="col-12 hidden-sm-up"><hr class="my-1" style="border-color:#f7f7f7;opacity:0.5;"></div>
+          
+      <!--- stats --->
+      
+  <div class="col" style="font-size:13px;">
+     <div class="card rounded-0 border-0 p-2 mt-1" style="background-color:#133A87;"></div>
+  <div class="row no-gutters">
+  
+  <div class="col-12" style="font-size:13px;">
+  
+    <!--- to change the stats, replace "fas" to "far" or vice versa, as you wish --->
+  
+    <div class="justify-content-between pb-1">
+    
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">CHARISMA</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">EXTROVERSION</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">OPTIMISM</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">EMPATHY</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">COURAGE</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">HONESTY</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">KINDNESS</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-0">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">PATIENCE</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+  </div>
+  
+  </div>
+  </div>
+  
+  <!--- end stats --->
+        </div>
+        <!----- basics end ----->
+      </div>
+      <!----- right column end ----->
+      
+      <!----- left column ----->
+      <div class="col-lg-8 order-lg-1 p-lg-3 p-1 flex-column">
+        
+        <!----- intro ----->
+        <div class="card rounded-0 p-lg-4 p-3" style="background-color:transparent;border-color:#133A87;">
+          <p>Write an intro here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non.</p>
+          
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+           
+            <!---- fontawesome icon here ----->
+            <i class="fa-solid fa-syringe" style="color:#133A87;"></i>
+          </p>
+        </div>
+        <!----- intro end ----->
+        
+        <!----- quote one (neutral) ----->
+        <div class="row no-gutters mt-3 px-lg-5 px-3">
+          <div class="col-auto px-lg-2">
+            <h2 class="pr-lg-3" style="font-family:'optima'">
+              
+              <!----- fontawesome icon here ----->
+              <i class="fad fa-quote-left fa-sm"></i>
+              <i>If your right eye causes you to sin,</i>  <i style="color:;"> tear it out and throw it away.</i> 
+               <i>For it is better that you lose one of your members than that your whole body be thrown into hell.</i>
+                  <i class="fad fa-quote-right fa-sm"></i>
+            </p>
+          </div>
+          <!----- decor divider; no need to edit ----->
+          <div class="col my-auto"><hr class="faded" style="border-color:#f7f7f7;">
+       
+        
+        <!----- quote two (hostile) ----->
+     
+              
+            
+              <!----- fontawesome icon here -----> 
+          
+              
+            </p>
+          </div>
+        </div>
+        <!----- quotes end ----->
+        <br>
+        <!----- location (long) ----->
+        <!--- SONG-->
+  <div class="card border-0 rounded-0 px-0 pb-0 pt-0" style="background:#000;color:#133A87;">
+  <div class="row no-gutters">
+  <div class="col-auto p-1 mt-1"><i class="fa-solid fa-cassette-tape fa-fade" style="margin-top:6px;font-size:20px;"></i>
+  
+  <!--- replace SONG_URL to the url of the youtube video you wish. --->
+  <iframe style="opacity:.001;position:absolute;top:0px;bottom:0;right:0px;height:30px;width:30px;" frameborder="0" src="
+  
+  https://www.youtube.com/embed/SONG_URL
+  
+  "></iframe></div>
+  <div class="col-auto m-1 mt-2 text-uppercase" style="font-size:20px;font-weight:bold;">TITLE - 0:00
+
+  
+  <!--- 1st lyric --->
+
+  <p class="text" style="font-style:italic;font-size:10px;line-height:11px;">
+    
+    Insert lyric here. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    <br>Nullam ut nibh eget ligula suscipit ultrices
+    <br>In bibendum ultricies risus at vulputate
+    <br>Ut ut laoreet risus
+    
+  </p></div>
+  <!--- end 1st lyric --->
+  
+  
+  </div></div>
+  
+  <!--- end 1st song --->
+    <!--- SONG-->
+    
+        <h2 style="color:#133A87;font-family:'copperplate'">Locations</h2>
+        <div class="card d-flex flex-fill border-0 p-2 mb-1" style="background-color:transparent;
+          
+          /*----- location background; replace IMG_URL with your own image address -----*/;
+          background-image:url(https://i.pinimg.com/1200x/75/35/f0/7535f00597be5c40a2e711692eec7f9d.jpg);
+          
+          background-size:cover;
+          background-position:center;
+          
+        ">
+          <div class="card d-flex flex-fill p-3 border-0" style="background-color:rgba(0,0,0,0.5);">
+            
+            <p class="font-italic">
+             HAZELWOOD CHURCH. Located in Hazelwood,Lancashire.
+             
+               <br>  Let both grow together until the harvest and in the time of harvest I will say to the reapers Gather ye together first the tares and bind them in bundles to burn them but gather the wheat into my barn (Matt. 13:30). But what think ye? A [certain] man had two sons; and he came to the first and said Son go work to day in my vineyard (Matt. 21:28).
+            </p>
+            
+          </div>
+          
+        </div>
+        
+        <!----- location (long) end ----->
+        
+        <!----- decor bar; no need to edit ----->
+
+      </div>
+      
+      <!----- left column end ----->
+    </div><hr class="faded" style="border-color:#f7f7f735;">
+       
+    <!----- BASIC INFO END ------>
+    
+    
+    <!----- MAIN ----->
+    <div class="container px-3">
+      <!--------------------------------------
+    
+        COMBAT INFO
+    
+      ---------------------------------------->
+      <!---- title ---->
+   
+      <div class="row no-gutters mb-3">
+        
+        <!---- left column ---->
+        <div class="col-lg-7 p-1">
+          <!---- resistances / weaknesses / theme ---->
+          <div class="card border-0 rounded-0 p-lg-1 p-3" style="background-color:transparent;">
+            <!---- resistance ---->
+          
+  
+  <div class="row no-gutters">
+  <!--- likes --->
+  <div class="col-sm-6">
+  <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">LIKES</span>
+  <ul style="font-size:13px;margin-bottom:0px;">
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+    
+    <!--- can add more like above this line --->
+  </ul></div>
+  <!--- end likes --->
+  
+  <div class="col-auto px-2 hidden-sm-down">
+  <div class="card rounded-0" style="height:100%;border-width:0px 1px 0px 0px;"></div>
+  </div>
+  
+  <hr class="my-2 hidden-md-up" style="width:100%;">
+  
+  <!--- dislikes --->
+  <div class="col-sm">
+  <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">DISLIKES</span>
+  <ul style="font-size:13px;margin-bottom:0px;">
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+    
+    <!--- can add more dislike above this line --->
+  </ul></div>
+  <!--- end dislikes --->
+  </div>
+           
+          
+          <hr class="my-2" style="width:100%;">
+  
+  <!--- favorites --->
+  <div class="row no-gutters">
+  <div class="col-sm-6">
+  <div class="row no-gutters">
+  <div class="col-12" style="font-size:13px;">
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">FOOD</span>
+      <span class="pull-right">Wafer
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">DRINK</span>
+      <span class="pull-right">Cranberry Juice
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">WEATHER</span>
+      <span class="pull-right">Cloudy
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">TIME</span>
+      <span class="pull-right">Dawn
+    </span></div>
+  </div></div></div>
+  
+  <div class="col-auto px-2 hidden-sm-down">
+  <div class="card rounded-0" style="height:100%;border-width:0px 1px 0px 0px;"></div>
+  </div>
+  
+  <div class="col-sm">
+  <div class="row no-gutters">
+  <div class="col-12" style="font-size:13px;">
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">SCENT</span>
+      <span class="pull-right">Incense 
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">FLOWER</span>
+      <span class="pull-right">Arum lily
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">ANIMAL</span>
+      <span class="pull-right">Sheep
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">ITEM</span>
+      <span class="pull-right">Razorblade
+    </span></div>
+  </div></div></div>
+  </div>
+  <!--- end favorites --->
+  
+  <hr class="my-2" style="width:100%;">
+  
+  <!--- trivia --->
+  <div class="row no-gutters">
+  <div class="col-sm-12">
+  <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">TRIVIA</span>
+ 
+  <ul style="font-size:13px;margin-bottom:0px;">
+    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    <li>Nullam ut nibh eget ligula suscipit ultrices.</li>
+    <li>In bibendum ultricies risus at vulputate.</li>
+    <li>Ut ut laoreet risus.</li>
+    <li>Fusce suscipit egestas mauris, a iaculis diam malesuada ac.</li>
+    
+    <!--- can add more trivia above this line --->
+  </ul></div></div>
+   <hr class="my-2" style="width:100%;">
+  <!--- end trivia --->
+    
+  <!--- trivia --->
+  <div class="row no-gutters">
+  <div class="col-sm-12">
+  <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">EXTRA</span>
+ <P>
+ Psalm 23:1-3 ESV
+The Lord is my shepherd; I shall not want.
+2     He makes me lie down in green pastures.
+He leads me beside still waters.
+3     He restores my soul.
+He leads me in paths of righteousness
+    for his name’s sake.
+Isaiah 53:7 ESV
+He was oppressed, and he was afflicted,
+    yet he opened not his mouth;
+like a lamb that is led to the slaughter,
+    and like a sheep that before its shearers is silent,
+    so he opened not his mouth.
+I have gone astray like a lost sheep; seek your servant,
+    for I do not forget your commandments.
+Isaiah 53:6 ESV
+All we like sheep have gone astray;
+    we have turned—every one—to his own way;
+and the Lord has laid on him
+    the iniquity of us all.
+Matthew 10:16 ESV
+ “Behold, I am sending you out as sheep in the midst of wolves, so bewise as serpents and innocent as doves.
+ Luke 12:32 ESV
+“Fear not, little flock, for it is your Father’s good pleasure to give you the kingdom.
+
+ 
+ 
+ </P>
+  </div></div>
+   <hr class="my-2" style="width:100%;">
+  <!--- end trivia --->
+  
+  <!----- END PREFERENCES ----->
+  
+          </div>
+          <!---- resistances and weaknesses end ---->
+          
+          <!---- skills/attacks ---->
+    
+          <!---- skills/attacks end ---->
+        </div>
+        <!----- left column end ----->
+        
+        <!----- right column ----->
+        <div class="col-lg-5 p-1 flex-column">
+          <!---- extra notes ---->
+    
+            
+  <!----- REFERENCE ----->
+  <div class="col-lg-12 p-1">
+  
+  <!--- 5th song -->
+  <div class="card border-0 rounded-0 px-1 pb-1 pt-0" style="background:#000;color:#133A87;">
+  <div class="row no-gutters">
+  <div class="col-auto p-1 mt-1"><i class="fas fa-compact-disc fa-spin" style="margin-top:6px;font-size:20px;"></i>
+  
+  <!--- replace SONG_URL to the url of the youtube video you wish. --->
+  <iframe style="opacity:.001;position:absolute;top:0px;bottom:0;right:0px;height:30px;width:30px;" frameborder="0" src="
+  
+  https://www.youtube.com/embed/SONG_URL
+  
+  "></iframe></div>
+  <div class="col-auto m-1 mt-2 text-uppercase" style="font-size:20px;font-weight:bold;">Title - 0:00
+  </div>
+  </div></div>
+  <!--- end 5th song --->
+  
+  <div class="card p-2" style="border:solid 1px #133A87;border-top:0px;border-top-left-radius:0;border-top-right-radius:0;height:92%;background:#000;">
+  
+  <!--- 5th lyric --->
+  <blockquote style="padding:0px 0px 0px 10px;margin:1px;">
+  <p class="text-muted" style="font-style:italic;line-height:14px;font-size:13px;">
+    
+    Insert lyric here. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    <br>Nullam ut nibh eget ligula suscipit ultrices
+    <br>In bibendum ultricies risus at vulputate
+    <br>Ut ut laoreet risus
+    
+  </p></blockquote>
+  <!--- 5th lyric --->
+  
+  <hr class="my-2" style="width:100%;">
+  
+  <!--- image reference --->
+  <div class="card rounded-0 h-100" style="border:solid 1px #133A87;
+  min-height:250px;
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  
+  /*--- replace IMG_URL to the direct link of the reference sheet. ---*/;
+  background-image:url(IMG_URL);">
+  </div>
+  <!--- end image reference --->
+  
+  <hr class="my-2" style="width:100%">
+  
+  <!--- color palette --->
+  <div class="card border-0">
+  <div class="row no-gutters" style="height:35px;">
+    
+    <!--- replace #BF0413 to the hex code of the color you wish. --->
+    <div class="col h-50" style="background-color:#fc5c68;"></div>
+    <div class="col h-50" style="background-color:#BF0413;"></div>
+    <div class="col h-50" style="background-color:#f4e6e7;"></div>
+    <div class="col h-50" style="background-color:#BF0413;"></div>
+    <div class="col h-50" style="background-color:#BF0413;"></div>
+    
+    <!----- can add more palette above this line ----->
+  </div></div>
+  <!--- end color palette --->
+  
+  <hr class="my-2" style="width:100%">
+  
+  <!--- design notes --->
+  <div class="row no-gutters">
+  <div class="col-sm-12">
+  <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">DESIGN NOTES</span>
+  <div class="card border-0 px-1" style="background:#000;">
+  <ul style="font-size:13px;margin-bottom:0px;">
+    
+    <!--- replace INSERT_LINK_HERE to the full res link of the reference sheet. --->
+    <li><a href="INSERT_LINK_HERE" style="color:#133A87"><u>Link to full refsheet
+    </u></a></li>
+    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    <li>Nullam ut nibh eget ligula suscipit ultrices.</li>
+    <li>In bibendum ultricies risus at vulputate.</li>
+    <li>Ut ut laoreet risus.</li>
+    <li>Fusce suscipit egestas mauris, a iaculis diam malesuada ac.</li>
+    
+    <!--- can add more notes above this line --->
+  </ul>
+  </div></div></div>
+  <!--- end design notes --->
+  </div></div>
+  <!----- END REFERENCE ----->
+  
+ 
+         </div>  </div>  </div>
+      
+           <!--------------------------------------
+    
+       SECCION BEGINS
+    
+      ---------------------------------------->
+     
+  
+  
+  
+  <!----- ABILITY ----->
+  <div class="col-lg-12 p-1">
+  
+  <!--- 6th song -->
+  <div class="card border-0 rounded-0 px-1 pb-1 pt-0" style="background:#133A87;color:#fff;">
+  <div class="row no-gutters">
+  <div class="col-auto p-1 mt-1"><i class="fas fa-compact-disc fa-spin" style="margin-top:6px;font-size:20px;"></i>
+  
+  <!--- replace SONG_URL to the url of the youtube video you wish. --->
+  <iframe style="opacity:.001;position:absolute;top:0px;bottom:0;right:0px;height:30px;width:30px;" frameborder="0" src="
+  
+  https://www.youtube.com/embed/SONG_URL
+  
+  "></iframe></div>
+  <div class="col-auto m-1 mt-2 text-uppercase" style="font-size:20px;font-weight:bold;">Title - 0:00
+  </div>
+  </div></div>
+  <!--- end 6th song --->
+  
+  <!--- 6th lyric --->
+  <blockquote style="padding:0px 0px 0px 10px;margin:1px;">
+  <p class="text-muted" style="font-style:italic;font-size:13px;line-height:14px;">
+  
+    Insert lyric here. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    <br>Nullam ut nibh eget ligula suscipit ultrices
+    <br>In bibendum ultricies risus at vulputate
+    <br>Ut ut laoreet risus
+  
+  </p></blockquote>
+  <!--- end 6th lyric --->
+  
+  <hr class="my-2" style="width:100%">
+  
+  <div class="row no-gutters">
+  
+  <div class="col-lg" style="text-align:justify;">
+  <!--- strengths --->
+  <div class="row no-gutters">
+  <div class="col-sm-12">
+  <span class="px-1" style="background:#133A87;color:;font-weight:bold;border-radius:1px;">STRENGTHS</span>
+  <div class="card border-0 px-1" style="background:#000;">
+  <ul style="font-size:13px;margin-bottom:0px;">
+    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    <li>Nullam ut nibh eget ligula suscipit ultrices.</li>
+    <li>In bibendum ultricies risus at vulputate.</li>
+    <li>Ut ut laoreet risus.</li>
+    <li>Fusce suscipit egestas mauris, a iaculis diam malesuada ac.</li>
+    
+    <!--- can add more strengths above this line --->
+  </ul></div></div></div>
+  <!--- end strengths --->
+  
+  <hr class="my-2" style="width:100%">
+  
+  <!--- weaknesses --->
+  <div class="row no-gutters">
+  <div class="col-sm-12">
+  <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">WEAKNESSES</span>
+  <div class="card border-0 px-1" style="background:#000;">
+  <ul style="font-size:13px;margin-bottom:0px;">
+    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    <li>Nullam ut nibh eget ligula suscipit ultrices.</li>
+    <li>In bibendum ultricies risus at vulputate.</li>
+    <li>Ut ut laoreet risus.</li>
+    <li>Fusce suscipit egestas mauris, a iaculis diam malesuada ac.</li>
+    
+    <!--- can add more weaknesses above this line --->
+  </ul></div></div></div>
+  <!--- end weaknesses --->
+   </div>
+  
+  <div class="col-auto px-2 hidden-sm-down">
+  <div class="card rounded-0" style="height:100%;border-width:0px 1px 0px 0px;"></div>
+  </div>
+  
+  <hr class="my-2 hidden-md-up" style="width:100%;">
+  
+  <!--- stats --->
+  <div class="col-lg-4" style="font-size:13px;">
+  <div class="row no-gutters">
+  <div class="col-12" style="font-size:13px;">
+    <!--- to change the stats, replace "fas" to "far" or vice versa, as you wish --->
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">STRENGTH</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">DEXTERITY</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">CONSTITUTION</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">SPEED</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">INTELLIGENCE</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">WISDOM</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">WILLPOWER</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">LUCK</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">MASOCHISM</span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    <div class="justify-content-between pb-1">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;"> SADISM </span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+      <div class="justify-content-between pb-0">
+      <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;"> PAIN TOLERANCE </span>
+      <span class="text-right my-auto">
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="fas fa-cross"></i>
+        <i class="far fa-cross"></i>
+      </span>
+    </span></div>
+    
+  </div></div></div>
+  <!--- end stats --->
+
+       
+  </div>
+    <hr class="faded" style="border-color:rgba(247,247,247,0.25);"></div>
+  
+  <!----- END ABILITY ----->
+ 
+     
+          <!--------------------------------------
+    
+    SECCION END
+    
+      ----------------------------------------> 
+     
+     
+      <!--------------------------------------
+    
+        inventory INFO
+    
+      ---------------------------------------->
+      <h3 style="color:#133A87;font-family:'copperplate'">Inventory</h3>
+      <div class="row no-gutters mb-3">
+        
+        <!---- drop one ---->
+        <div class="col-lg-3 p-3 justify-content-center">
+          <!---- item image; SQUARE IMAGES ONLY ---->
+          <img src="https://i.imgur.com/aeuIZmn.png" class="mb-1" style="width:100px;height:100px;">
+        </div>
+        <!---- drop info ---->
+        <div class="col-lg-9 p-2 my-lg-auto">
+          <p><b style="font-family:'copperplate';font-size:1.1rem;">Razorblade.</b>  I chastise my body, and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway. (1 Corinthians 9:26-27)
+
+ <br>For if you live according to the flesh, you will die; but if by the Spirit you put to death the misdeeds of the body, you will live. (Romans 8:13)
+</p>
+        </div>
+        <!---- drop one end ---->
+        
+        <!---- drop two ---->
+        <div class="col-lg-3 p-3 justify-content-center">
+          <!---- item image; SQUARE IMAGES ONLY ---->
+          <img src="https://i.imgur.com/EYO30Fa.png" class="mb-1" style="width:100px;height:100px;">
+        </div>
+        <!---- drop info ---->
+        <div class="col-lg-9 p-2 my-lg-auto">
+          <p><b style="font-family:'copperplate';font-size:1.1rem;">Pills.</b> To remain sane.</p>
+        </div>
+        <!---- drop two end ---->
+        
+        <!---- drop three ---->
+        <div class="col-lg-3 p-3 justify-content-center">
+          <!---- item image; SQUARE IMAGES ONLY ---->
+          <img src="https://i.imgur.com/7gjgETA.png" class="mb-1" style="width:100px;height:100px;">
+        </div>
+        <!---- drop info ---->
+        <div class="col-lg-9 p-2 my-lg-auto">
+          <p><b style="font-family:'copperplate';font-size:1.1rem;">Scapular .</b> To remain faithful.</p>
+        </div>
+        <!---- drop three end ---->
+        
+        <!---- regular/generic drops ---->
+        <div class="col-12 p-2">
+          <p class="small"><b style="font-family:'copperplate';font-size:1.1rem;">Others .</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus.</p>
+        </div>
+      </div>
+      <!----- DROP INFO END ----->
+      
+      
+      <!--------------------------------------
+    
+        COMBAT INFO
+    
+      ---------------------------------------->
+      <!---- title ---->
+  <div class="col-lg-12 p-1">
+  
+  
+  <div class="card border-0 rounded-0 px-1 pb-1 pt-0" style="background:#133A87;color:#fff;">
+  <div class="row no-gutters">
+  <div class="col-auto p-1 mt-1"><i class="fas fa-cassette-tape fa-fade" style="margin-top:6px;font-size:20px;"></i>
+  
+  
+  <iframe style="opacity:.001;position:absolute;top:0px;bottom:0;right:0px;height:30px;width:30px;" frameborder="0" src=""></iframe></div>
+  <div class="col-auto m-1 mt-2 text-uppercase" style="font-size:20px;font-weight:bold;">TITLE - 20:20
+  </div>
+  </div></div>
+  
+  
+  <div class="card p-2" style="border:solid 1px #133A87;border-top:0px;border-top-left-radius:0;border-top-right-radius:0;background:#000;">
+  
+  
+  
+  <p class="text" style="color:#133a87;font-style:italic;line-height:14px;font-size:10px;" >
+    
+  
+<br>
+
+    
+  </p>
+  
+  
+  <hr class="my-2" style="width:100%;">
+  
+ 
+  <div class="row no-gutters" style="background:#000;">
+  
+  
+  <div class="col-lg-6">
+  <div class="row no-gutters"  style="background:#000;"><div class="col-md-4 p-1"  style="background:#000;">
+  
+  
+  <img src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/108493750_qUc.gif" style="border:1px solid #133A87;" alt="">
+  </div>
+  <div class="col-md-8 px-1" >
+  <div class="justify-content-between">
+    <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">
+    
+    
+    <a style="color:#fff;" href="https://toyhou.se/35739848.colbert-fletcher">Rhys D. Voltaire</a>
+    
+    </span>
+    <span class="pull-right text-right" style="font-size:13px;">Love interest
+  </span></div>
+  <hr class="my-2" style="width:100%;">
+  <p class="mb-0 text-justify" style="font-size:13px;">
+   
+    
+  </p>
+  </div></div></div>
+  
+  
+  <div class="col-auto px-2 hidden-sm-down">
+  <div class="card rounded-0" style="height:100%;border-width:0px 1px 0px 0px;"></div>
+  </div>
+  
+  <hr class="my-2 hidden-md-up" style="width:100%;">
+  
+  
+  <div class="col-lg">
+  <div class="row no-gutters"><div class="col-md-4 p-1">
+  
+  
+  <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/35740409?1760787969" style="border:1px solid #133A87;" alt="35740409?1760787969">
+  </div>
+  <div class="col-md-8 px-1">
+  <div class="justify-content-between">
+    <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">
+    
+    
+    <a style="color:#fff;" href="https://toyhou.se/35740409.jinx-vulpes">Jinx Vulpes</a>
+    
+    </span>
+    <span class="pull-right text-right" style="font-size:13px;">Psychotic Delirium
+  </span></div>
+  <hr class="my-2" style="width:100%;">
+  <p class="mb-0 text-justify" style="font-size:13px;">
+    
+  </p>
+  </div></div>
+  </div>
+  
+  
+  <hr class="my-2" style="width:100%;">
+  </div>
+   
+  <div class="row no-gutters">
+  
+  
+  <div class="col-lg-6">
+  <div class="row no-gutters"><div class="col-md-4 p-1">
+  
+  
+  <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/35739852?1760786439" style="border:1px solid #133A87;" alt="35739852?1760786439">
+  </div>
+  <div class="col-md-8 px-1">
+  <div class="justify-content-between">
+    <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">
+    
+    
+    <a style="color:#fff;" href="https://toyhou.se/35739852.cain-fletcher">Cain Fletcher</a>
+    
+    </span>
+    <span class="pull-right text-right" style="font-size:13px;">Brother
+  </span></div>
+  <hr class="my-2" style="width:100%;">
+  <p class="mb-0 text-justify" style="font-size:13px;">
+    
+
+  </p>
+  </div></div></div>
+  
+  
+  <div class="col-auto px-2 hidden-sm-down">
+  <div class="card rounded-0" style="height:100%;border-width:0px 1px 0px 0px;"></div>
+  </div>
+  
+  <hr class="my-2 hidden-md-up" style="width:100%;">
+  
+  
+  <div class="col-lg">
+  <div class="row no-gutters"><div class="col-md-4 p-1">
+  
+  
+  <img src="https://i.pinimg.com/736x/53/11/7d/53117d4730ec1d49b2e26e8077121270.jpg" style="width:160px;height:160px;border:1px solid #133A87;" alt="">
+  </div>
+  <div class="col-md-8 px-1">
+  <div class="justify-content-between">
+    <span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">
+    
+    
+    <a style="color:#fff;" href="https://toyhou.se/35739427.arden-wraith">Old friend</a>
+    
+    </span>
+    <span class="pull-right text-right" style="font-size:13px;">????
+  </span></div>
+  <hr class="my-2" style="width:100%;">
+  <p class="mb-0 text-justify" style="font-size:13px;">
+    Hurry up Mrs. Brown.
+    
+  </p>
+  </div></div>
+  </div>
+  
+  
+  <hr class="my-2" style="width:100%;">
+  </div>
+  
+  
+<!----- CREDIT DO NOT DELETE ----->
+<p class="text-right" style="margin-right: 5px;">
+  <!--- replace IMG_SRC to the link of the source of the image. --->
+  <a href="IMG_SRC" style="color:#133A87;">
+  <i class="fas fa-image tooltipster" title="Image source"></i></a>
+  <a href="https://toyhou.se/eskaep" style="color:#133A87;">
+  <i class="fas fa-bookmark tooltipster" title="Code by eskaep"></i></a>
+</p>
+<!----- END CREDIT ----->
+  </div>
+  
+  </div>
+  
+      <!---- CONNECTIONS END ----->
+    </div>
+    
+    <!----- MAIN END ----->
+  </div>
+  
+</div>
+
+<!----- CREDITS ! please do not delete ----->
+<p class="text-center text-muted">
+  <a href="https://toyhou.se/13083735" class="text-muted small" style="text-decoration:none;"><i class="fal fa-rabbit"></i> code by Leporidebug <i class="fal fa-cauldron"></i></a>
+</p>
+
+
