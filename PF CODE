@@ -1,0 +1,220 @@
+<div class="card p-3 p-lg-4 border-0 rounded-0" style="position:relative;">
+    <div class="card p-3 rounded-0" style="position:absolute;top:0;left:0;border-width:3px 0 0 3px;"></div>
+    <div class="card p-3 rounded-0" style="position:absolute;top:0;right:0;border-width:3px 3px 0 0;"></div>
+    <div class="card p-3 rounded-0" style="position:absolute;right:0;bottom:0;border-width:0 3px 3px 0;"></div>
+    <div class="card p-3 rounded-0" style="position:absolute;bottom:0;left:0;border-width:0 0 3px 3px;"></div>
+    <div class="mb-3" style="height:160px;background-color:var(--primary);background-image:url(&quot;https://images.unsplash.com/photo-1749315099905-9cf6cabd9126?q=80&amp;w=1287&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&quot;);background-size:cover;background-position:center;background-blend-mode:luminosity;filter:contrast(65%);opacity:.65;"></div>
+    <div class="row flex-row-reverse flex-lg-row mx-n2 mb-n2">
+      <div class="col-lg-8 px-2">
+        <div class="flex-column h-100 mb-n3 p-2">
+          <h3 class="d-flex align-items-center mb-0 text-monospace text-uppercase" style="font-weight:600;letter-spacing:2px;color:var(--primary);">
+            <span class="mr-2 text-muted" style="opacity:.5;">//</span>
+            Dakota
+            <i class="fa-light fa-duotone fa-game-console-handheld fa-width-auto ml-auto pl-3" style="font-size:1.25em;"></i>
+          </h3>
+          <hr class="w-100" style="border-width:2px 0 0;border-color:var(--primary);opacity:.25;">
+          <div class="d-flex flex-wrap mb-3 text-monospace font-italic text-muted" style="letter-spacing:1px;">
+            <div class="d-flex align-items-center mr-3">
+              <i class="fa-solid fa-hashtag fa-2xs mr-1" style="color:var(--primary);"></i>
+              Port Town
+            </div>
+            <div class="d-flex align-items-center mr-3">
+              <i class="fa-solid fa-hashtag fa-2xs mr-1" style="color:var(--primary);"></i>
+              NFT/S
+            </div>
+            <div class="d-flex align-items-center mr-3">
+              <i class="fa-solid fa-hashtag fa-2xs mr-1" style="color:var(--primary);"></i>
+              0 USD
+            </div>
+          </div>
+          <div class="mb-3 pr-2" style="letter-spacing:.5px;">
+            <p>
+              <b>bold</b> <i>italic</i> <u>underline</u> <s>strikethrough</s> <a href="#" style="color:var(--primary);">link</a>. lorem ipsum dolor sit amet, consectetur adipiscing elit. morbi fermentum, augue in sagittis faucibus, eros justo pharetra sem, a sollicitudin est velit et diam. mauris ut pulvinar elit, non malesuada ex.
+            </p>
+            <p>
+              suspendisse quis erat venenatis, scelerisque sapien ac, ornare sapien. mauris ut metus ut dui fermentum sollicitudin a sit amet purus. quisque viverra lacus ligula, sed eleifend velit pellentesque sed.
+            </p>
+          </div>
+          <div class="d-flex align-items-center mb-3 text-monospace font-italic text-muted" style="letter-spacing:1.5px;opacity:.5;">
+            <hr class="flex-grow-1 my-0 mr-3" style="border-width:2px 0 0 0;">
+            <span class="mr-1">(</span>
+            about.
+            <span class="ml-1">)</span>
+          </div>
+          <ul class="fa-ul ml-4 mb-2 pl-2 text-monospace">
+            <li class="mb-2">
+              <span class="fa-li pr-2"><i class="fa-solid fa-hyphen fa-2xs text-muted"></i></span>
+              a list of character notes, design notes or trivia.
+            </li>
+            <li class="mb-2">
+              <span class="fa-li pr-2"><i class="fa-solid fa-hyphen fa-2xs text-muted"></i></span>
+              content.
+            </li>
+            <li class="mb-2">
+              <span class="fa-li pr-2"><i class="fa-solid fa-hyphen fa-2xs text-muted"></i></span>
+              content.
+            </li>
+          </ul>
+          <div class="d-flex align-items-center mb-3 text-monospace font-italic text-muted" style="letter-spacing:1.5px;opacity:.5;">
+            <hr class="flex-grow-1 my-0 mr-3" style="border-width:2px 0 0 0;">
+            <span class="mr-1">(</span>
+            notes.
+            <span class="ml-1">)</span>
+          </div>
+          <div class="row ml-n3 mr-n3 mr-lg-n2 mb-2 mb-lg-0 text-lg-center">
+            <div class="col-lg-4 mb-2 mb-lg-3 px-2">
+              <div class="card flex-row flex-lg-column align-items-center h-100 pt-3 pt-lg-4 px-3 pb-3 rounded-0" style="border-width:2px;">
+                <p class="mr-3 mr-lg-0 mb-0 mb-lg-4">
+                  <i class="fa-light fa-duotone fa-backpack" style="font-size:2rem;color:var(--primary);"></i>
+                </p>
+                <div>
+                  <h5 class="mb-1 text-monospace text-uppercase" style="font-size:1rem;letter-spacing:.5px;">
+                    Backpack
+                  </h5>
+                  <p class="font-italic text-muted" style="font-size:.8rem;letter-spacing:1px;">
+                    for carrying his various handhelds
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 mb-2 mb-lg-3 px-2">
+              <div class="card flex-row flex-lg-column align-items-center h-100 pt-3 pt-lg-4 px-3 pb-3 rounded-0" style="border-width:2px;">
+                <p class="mr-3 mr-lg-0 mb-0 mb-lg-4">
+                  <i class="fa-light fa-duotone fa-game-console-handheld" style="font-size:2rem;color:var(--primary);"></i>
+                </p>
+                <div>
+                  <h5 class="mb-1 text-monospace text-uppercase" style="font-size:1rem;letter-spacing:.5px;">
+                    Tamagotchi
+                  </h5>
+                  <p class="font-italic text-muted" style="font-size:.8rem;letter-spacing:1px;">
+                    v4 (pink splats) w/ <a href="https://toyhou.se/~r?q=https%3A%2F%2Ftamagotchi.fandom.com%2Fwiki%2FKuchipatchi" style="color:var(--primary);">kuchipatchi</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 mb-2 mb-lg-3 px-2">
+              <div class="card flex-row flex-lg-column align-items-center h-100 pt-3 pt-lg-4 px-3 pb-3 rounded-0" style="border-width:2px;">
+                <p class="mr-3 mr-lg-0 mb-0 mb-lg-4">
+                  <i class="fa-light fa-duotone fa-coin" style="font-size:2rem;color:var(--primary);"></i>
+                </p>
+                <div>
+                  <h5 class="mb-1 text-monospace text-uppercase" style="font-size:1rem;letter-spacing:.5px;">
+                    Coins
+                  </h5>
+                  <p class="font-italic text-muted" style="font-size:.8rem;letter-spacing:1px;">
+                    just keeps 'em loose in his pockets ???
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="d-flex align-items-center mb-3 text-monospace font-italic text-muted" style="letter-spacing:1.5px;opacity:.5;">
+            <hr class="flex-grow-1 my-0 mr-3" style="border-width:2px 0 0 0;">
+            <span class="mr-1">(</span>
+            inventory.
+            <span class="ml-1">)</span>
+          </div>
+          <ul class="fa-ul ml-4 mb-2 pl-2 text-monospace">
+            <li class="mb-2">
+              <span class="fa-li pr-2"><i class="fa-solid fa-plus fa-2xs text-muted"></i></span>
+              <a href="#" style="color:var(--primary);">jonas</a>' younger brother.
+            </li>
+            <li class="mb-2">
+              <span class="fa-li pr-2"><i class="fa-solid fa-plus fa-2xs text-muted"></i></span>
+              a relationship with <a href="#" style="color:var(--primary);">character</a>. a mini relationship blurb.
+            </li>
+          </ul>
+          <div class="d-flex align-items-center mb-3 text-monospace font-italic text-muted" style="letter-spacing:1.5px;opacity:.5;">
+            <hr class="flex-grow-1 my-0 mr-3" style="border-width:2px 0 0 0;">
+            <span class="mr-1">(</span>
+            relationships.
+            <span class="ml-1">)</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-auto px-2">
+        <div class="card h-100" style="border-width:0 2px 0 0;"></div>
+      </div>
+      <div class="col-lg px-2">
+        <div class="flex-column h-100 p-2">
+          <div class="d-none d-lg-block" style="margin-top:-120px;"></div>
+          <img class="d-block mx-auto mb-3 p-2 border-0 rounded-0" style="width:200px;" src="https://i.imgur.com/vQp3pzg.png" >
+          <div class="mb-3 text-monospace">
+            <div class="d-flex flex-wrap mb-2">
+              he/him
+              <span class="d-flex ml-auto pl-2 font-italic text-muted" style="letter-spacing:1px;opacity:.5;">
+                <span class="mr-1">(</span>
+                pronouns
+                <span class="ml-1">)</span>
+              </span>
+            </div>
+            <div class="d-flex flex-wrap mb-2">
+              15
+              <span class="d-flex ml-auto pl-2 font-italic text-muted" style="letter-spacing:1px;opacity:.5;">
+                <span class="mr-1">(</span>
+                age
+                <span class="ml-1">)</span>
+              </span>
+            </div>
+            <div class="d-flex flex-wrap mb-2">
+              5'4" / 163 cm
+              <span class="d-flex ml-auto pl-2 font-italic text-muted" style="letter-spacing:1px;opacity:.5;">
+                <span class="mr-1">(</span>
+                height
+                <span class="ml-1">)</span>
+              </span>
+            </div>
+            <div class="d-flex flex-wrap mb-2">
+              cat
+              <span class="d-flex ml-auto pl-2 font-italic text-muted" style="letter-spacing:1px;opacity:.5;">
+                <span class="mr-1">(</span>
+                species
+                <span class="ml-1">)</span>
+              </span>
+            </div>
+            <div class="d-flex flex-wrap mb-2">
+              Port Town
+              <span class="d-flex ml-auto pl-2 font-italic text-muted" style="letter-spacing:1px;opacity:.5;">
+                <span class="mr-1">(</span>
+                location
+                <span class="ml-1">)</span>
+              </span>
+            </div>
+            <div class="d-flex flex-wrap mb-2">
+              alive
+              <span class="d-flex ml-auto pl-2 font-italic text-muted" style="letter-spacing:1px;opacity:.5;">
+                <span class="mr-1">(</span>
+                status
+                <span class="ml-1">)</span>
+              </span>
+            </div>
+          </div>
+          <div class="flex-grow-1"></div>
+          <div class="mb-3">
+            <p class="mb-3 text-monospace text-center text-lg-right font-italic text-muted" style="font-size:.8rem;letter-spacing:.5px;">
+              song lyrics, a quote, or a tagline. aenean urna mauris, efficitur a maximus non, commodo a ex.
+            </p>
+            <div class="card row no-gutters flex-row align-items-center ml-n2 ml-lg-0 mr-n2 py-2 px-3 rounded-0" style="border-width:2px;">
+              <div class="col-auto ml-n3 mr-3 overflow-hidden">
+                <i class="fa-thin fa-duotone fa-compact-disc fa-width-auto fa-spin ml-n4" style="font-size:3.5rem;color:var(--primary);opacity:.4;animation-duration:4s;"></i>
+              </div>
+              <div class="col py-1">
+                <h5 class="mb-1 text-monospace text-uppercase" style="font-size:1rem;letter-spacing:.5px;">
+                  Movie Theater
+                </h5>
+                <p class="font-italic text-muted" style="font-size:.8rem;letter-spacing:1px;">
+                  concernedape
+                </p>
+              </div>
+              <a href="#" class="btn btn-outline-primary border-0 rounded-0" style="position:absolute;top:0;right:0;bottom:0;left:0;filter:grayscale(100%);opacity:.075;">
+                <span style="position:absolute;top:0;right:0;bottom:0;left:0;opacity:.0001;overflow:hidden;">
+                  <iframe width="700" height="500" src="https://www.youtube.com/embed/eIXLaIn9PAc?controls=0" frameborder="0" style="position:absolute;top:-100px;left:-300px;"></iframe>
+                </span>
+              </a>
+            </div>
+          </div>
+          <div class="mb-n3"></div>
+        </div>
+      </div>
+    </div>
+  </div>
