@@ -62,10 +62,10 @@
 			<div class="col-lg-4 order-lg-1 p-lg-3 p-1 flex-column">
 				<!----- decor bar; no need to edit ----->
 				<div class="card rounded-0 border-0 p-2 mb-3" style="background-color:#133A87;"></div>
-				<img src="https://i.imgur.com/cikdEYL.png" alt="test" style="z-index:100;position:absolute;height:200px;margin-left:160px;margin-top:0px;opacity:0%;">
+				<img src="https://i.imgur.com/cikdEYL.png" alt="test" style="z-index:100;position:absolute;height:200px;margin-left:150px;margin-top:0px;opacity:0%;">
 				<!----- main avatar ----->
 				<div class="card p-2 rounded-0 mx-auto" style="background:transparent;border-color:#133A87;">
-					<div class="card border-0 rounded-0 mx-auto my-auto" style="height:150px;width:200px;background-color:#f7f7f7;
+					<div class="card border-0 rounded-0 mx-auto my-auto" style="height:200px;width:200px;background-color:#f7f7f7;
           
           /*----- avatar image; replace IMG_URL with your own image address -----*/;
           background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/108947167_T5V.jpg);
@@ -76,7 +76,24 @@
         "></div>
 				</div>
 				<!----- decor bar; no need to edit ----->
-				<div class="card rounded-0 border-0 p-2 mt-4" style="background-color:#133A87;"></div>
+					    	<!---SONG --->
+				<div class="card border-0 rounded-0 px-1 pb-0 pt-0" style="background:#133A87;color:#fff;">
+				<div class="row no-gutters">
+					<div class="col-auto p-0 mt-0"><i class="fas fa-cassette-tape fa-fade" style="margin-top:6px;font-size:20px;" aria-hidden="true"></i>
+						<!--- replace SONG_URL to the url of the youtube video you wish. --->
+						<iframe style="opacity:.001;position:absolute;top:0px;bottom:0;right:0px;height:30px;width:30px;" frameborder="0" src="
+  
+  https://www.youtube.com/embed/SONG_URL
+  
+  "></iframe>
+					</div>
+					<div class="col-auto m-1 mt-1 text-uppercase" style="font-size:15px;font-weight:bold;">Title - 0:00 </div>
+				</div>
+			</div>
+			<i style="padding:1px 1px;margin:0;">
+				<p class="text" style="color:#133a87;font-style:italic;font-size:12px;line-height:13px;"> Insert lyric here. Lorem ipsum dolor sit amet, consectetur adipiscing elit <br>Nullam ut nibh eget ligula suscipit ultrices <br>In bibendum ultricies risus at vulputate <br>Ut ut laoreet risus </p>
+			</i>
+				<!---SONG --->
 				<!----- basics ----->
 				<div class="row no-gutters">
 					<div class="col-12" style="font-size:13px;">
@@ -111,11 +128,13 @@
 					</div>
 					<!--- stats --->
 					<div class="col" style="font-size:13px;">
-						<div class="card rounded-0 border-0 p-2 mt-1" style="background-color:#133A87;"></div>
+					
 						<div class="row no-gutters">
 							<div class="col-12" style="font-size:13px;">
 								<!--- to change the stats, replace "fas" to "far" or vice versa, as you wish --->
+				<div class="card rounded-0 border-0 p-2 mb-0" style="background-color:#133A87;"></div>
 								<div class="justify-content-between pb-1">
+								    
 									<span class="px-1" style="background:#133A87;color:#fff;font-weight:bold;border-radius:1px;">CHARISMA</span>
 									<span class="text-right my-auto">
 										<i class="fas fa-cross"></i>
@@ -268,41 +287,43 @@
 				<!----- quotes end ----->
 				<br>
 				<!----- location (long) ----->
-				<!--- SONG-->
-				<div class="card border-0 rounded-0 px-0 pb-0 pt-0" style="background:#000;color:#133A87;">
-					<div class="row no-gutters">
-						<div class="col-auto p-1 mt-1"><i class="fa-solid fa-cassette-tape fa-fade" style="margin-top:6px;font-size:20px;"></i>
-							<!--- replace SONG_URL to the url of the youtube video you wish. --->
-							<iframe style="opacity:.001;position:absolute;top:0px;bottom:0;right:0px;height:30px;width:30px;" frameborder="0" src="
+	
+			<div class="col-lg-12 p-1">
   
-  https://www.youtube.com/embed/SONG_URL
   
-  "></iframe>
-						</div>
-						<div class="col-auto m-1 mt-2 text-uppercase" style="font-size:20px;font-weight:bold;">TITLE - 0:00 <!--- 1st lyric --->
-							<p class="text" style="font-style:italic;font-size:10px;line-height:11px;"> Insert lyric here. Lorem ipsum dolor sit amet, consectetur adipiscing elit <br>Nullam ut nibh eget ligula suscipit ultrices <br>In bibendum ultricies risus at vulputate <br>Ut ut laoreet risus </p>
-						</div>
-						<!--- end 1st lyric --->
-					</div>
-				</div>
-				<!--- end 1st song --->
-				<!--- SONG-->
-				<h2 style="color:#fff;font-family:'copperplate'">Locations</h2>
-				<div class="card d-flex flex-fill border-0 p-2 mb-1" style="background-color:transparent;
-          
-          /*----- location background; replace IMG_URL with your own image address -----*/;
-          background-image:url(https://i.pinimg.com/1200x/75/35/f0/7535f00597be5c40a2e711692eec7f9d.jpg);
-          
-          background-size:cover;
-          background-position:center;
-          
-        ">
-					<div class="card d-flex flex-fill p-3 border-0" style="background-color:rgba(0,0,0,0.5);">
-						<p class="font-italic"> HAZELWOOD CHURCH. Located in Hazelwood,Lancashire. <br> Let both grow together until the harvest and in the time of harvest I will say to the reapers Gather ye together first the tares and bind them in bundles to burn them but gather the wheat into my barn (Matt. 13:30). But what think ye? A [certain] man had two sons; and he came to the first and said Son go work to day in my vineyard (Matt. 21:28). </p>
-					</div>
-				</div>
-				<!----- location (long) end ----->
-				<!----- decor bar; no need to edit ----->
+  <div class="card border-0 rounded-0 px-1 pb-1 pt-0" style="background:#133A87;color:#fff;">
+  <div class="row no-gutters">
+  <div class="col-auto p-1 mt-1"><i class="fas fa-compact-disc fa-spin" style="margin-top:6px;font-size:20px;"></i>
+  
+  
+  <iframe style="opacity:.001;position:absolute;top:0px;bottom:0;right:0px;height:30px;width:30px;" frameborder="0" src="#"></iframe></div>
+  <div class="col-auto m-1 mt-2 text-uppercase" style="font-size:20px;font-weight:bold;">TITLE - 20:20
+  </div>
+  </div></div>
+  
+  
+  <div class="card p-2" style="border:solid 1px #133A87;border-top:0px;border-top-left-radius:0;border-top-right-radius:0;background:#000;">
+  
+  
+  <blockquote style="padding:0px 0px 0px 10px;margin:1px;">
+  <p class="text-muted" style="font-style:italic;line-height:14px;font-size:13px;">
+    
+     Of mercy and judgement will I sing unto Thee, O Lord; I will chant and have understanding in a blameless path. When wilt Thou come unto me?
+    
+  </p></blockquote>
+  
+  
+  <hr class="my-2" style="width:100%;">
+  
+  <div class="row no-gutters">
+  <div class="col-lg px-1" style="text-align:justify;"><p style="font-size:13px;">
+    
+    Describe your character's background here. This will expand. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut nibh eget ligula suscipit ultrices. In bibendum ultricies risus at vulputate. Ut ut laoreet risus. Fusce suscipit egestas mauris, a iaculis diam malesuada ac. Pellentesque mattis eros nunc, et cursus nisl tempus non. Quisque at luctus nunc. Nunc consectetur rutrum risus non pretium.
+    <br>
+    <br>Praesent condimentum commodo lacinia. Donec semper laoreet tellus. Nullam et viverra arcu. Sed et felis ipsum. Suspendisse facilisis eleifend felis eget semper. Vivamus eu purus a orci tincidunt luctus a non neque. Integer sollicitudin dui nulla, nec commodo massa lacinia non. Nunc laoreet efficitur auctor. Duis metus turpis, pharetra iaculis suscipit non, sagittis ut enim. Suspendisse vel malesuada risus. Nam consequat ex mauris, vitae pellentesque nibh vehicula quis. Vestibulum dignissim, ante quis facilisis ultricies, libero nisi placerat quam, ut vestibulum neque nibh eget est.
+  
+  </p></div></div>
+  </div></div>	<!----- decor bar; no need to edit ----->
 			</div>
 			<!----- left column end ----->
 		</div>
